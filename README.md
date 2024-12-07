@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Mirkojr/Mirkojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👩‍💻 About Me  
+I'm a Computer Science student, passionate about learning new technologies and improving my coding skills. 
+
+🔭 Current Focus: Developing projects that challenge and enhance my problem-solving and technical skills.
+🌱 Learning: Delving into new programming languages, frameworks, and best practices to become a versatile developer.
+
