@@ -22,6 +22,5 @@ I'm a Computer Science student, passionate about learning new technologies and i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirkojr&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mirkojr&theme=radical)
 
 
