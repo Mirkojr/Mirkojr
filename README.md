@@ -1,11 +1,42 @@
-## Hi there 
+# Hi 👋, I'm Marcos Antônio
 
-###  About Me  
-I'm a Computer Science student, passionate about learning new technologies and improving my coding skills. 
+### A constant learning developer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkojr&layout=compact&theme=radical)
+- 🔭 I'm currently working on **a laboratory chemical reagent management system as part of a scholarship project at the Federal University of Ceará (UFC).**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirkojr&show_icons=true&theme=radical)
+- 🌱 I'm currently learning **prisma and next**
+
+- 📫 How to reach me **footsbest@alu.ufc.br**
+
+- ⚡ Fun fact **I am a judô black belt.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Mirkojr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mirkojr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcos-antônio-67496139b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-antônio-67496139b" height="30" width="40" /></a>
+<a href="https://leetcode.com/mirkojr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirkojr" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<div align="left">
+  <h4>🌐 Front-end & Web</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap" alt="Front-end Skills" />
+  </a>
+  <br><br>
+
+  <h4>⚙️ Back-end & Banco de Dados</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,py,postgres,firebase" alt="Back-end Skills" />
+  </a>
+  <br><br>
+
+  <h4>🛠️ Ferramentas & Nuvem</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,postman,figma" alt="Ferramentas e Nuvem" />
+  </a>
+</div>
 
 
 
