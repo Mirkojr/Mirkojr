@@ -40,5 +40,13 @@
   </a>
 </div>
 
+<br> 
+
+<h3 align="left">📊 LeetCode Stats:</h3>
+<div align="left">
+  <a href="https://leetcode.com/mirkojr" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mirkojr?theme=dark&font=Baloo%20Bhaijaan%202&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
 
 
